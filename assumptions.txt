@@ -1,0 +1,7 @@
+Assumptions)
+					1. 1 leter symbols such as "&" are counted as a word
+					2. removed *
+					3. For the example Chapter 3 the 3 is treated as a seperate number
+					4. Removed ?!"()*&%$£
+					5. a price £3.50 would then be stripped to 3 letters 
+					6. 
